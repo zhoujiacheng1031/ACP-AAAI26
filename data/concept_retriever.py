@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-26
-
-@author: zhoujiacheng
-@file: concept_retriever.py
 @purpose: Retrieve and process entity concepts from Neo4j
 """
 

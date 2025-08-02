@@ -1,4 +1,4 @@
-# MACAP Results Directory
+# ACP Results Directory
 
 This directory contains experimental results, model checkpoints, and evaluation outputs for MACAP.
 

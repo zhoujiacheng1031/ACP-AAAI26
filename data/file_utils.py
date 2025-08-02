@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-26
-
-@author: zhoujiacheng
-@file: file_utils.py
 @purpose: file utils
 """
 

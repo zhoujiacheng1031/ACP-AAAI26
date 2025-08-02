@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-26
-
-@author: zhoujiacheng
-@file: few_shot_dataset.py
 @purpose: Dataset class for few-shot learning tasks with NOTA
 """
 

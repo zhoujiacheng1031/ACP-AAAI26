@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on 2024-07-31
-
-@author: zhoujiacheng
-@file: proto_net.py
-@purpose: Concept-Enhanced Prototypical Network
+@purpose: Contrastive Prototypical Network
 """
 
 import torch

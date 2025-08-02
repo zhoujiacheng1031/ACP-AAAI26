@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-26
-
-@author: zhoujiacheng
-@file: few_shot_converter.py
 @purpose: Convert datasets to few-shot learning format
 """
 

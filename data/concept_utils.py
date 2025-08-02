@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2025-01-28
-
-@author: zhoujiacheng
-@file: concept_utils.py
 @purpose: utilities for handling entity concepts from Neo4j
 """
 
@@ -13,9 +9,9 @@ import json
 
 class ConceptRetriever:
     def __init__(self, 
-                 neo4j_uri: str = 'neo4j://115.156.114.150:27687',
+                 neo4j_uri: str = ' replace to your neo4j url',
                  neo4j_user: str = 'neo4j',
-                 neo4j_password: str = 'dasineo4j'):
+                 neo4j_password: str = 'neo4j'):
         """初始化概念检索器"""
         self.graph = Graph(neo4j_uri, user=neo4j_user, password=neo4j_password)
         self.concept_cache = {}  # 用于缓存已查询的概念

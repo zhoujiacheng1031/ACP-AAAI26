@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-31
-
-@file: get_concept.py
 @purpose: get concept from neo4j    
 """
 
@@ -13,7 +10,7 @@ import json
 import torch
 import argparse
 
-graph = Graph('neo4j://115.156.114.150:27687',user='neo4j',password='dasineo4j')
+graph = Graph('neo4j://',user='neo4j',password='neo4j')
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--train_path', default=None, help='seed training set')

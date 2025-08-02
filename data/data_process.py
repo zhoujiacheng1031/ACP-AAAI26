@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2025-01-23
-
-@author: zhoujiacheng
-@file: data_process.py
 @purpose: process data for few-shot learning format
 """
 

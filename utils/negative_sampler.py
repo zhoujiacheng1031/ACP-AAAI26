@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-31
-
-@author: zhoujiacheng
-@file: negative_sampler.py
 @purpose: Generate negative samples using LLM with concept consistency
 """
 

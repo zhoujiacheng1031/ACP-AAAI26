@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-26
-
-@author: zhoujiacheng
-@file: FewShotTrans.py
 @purpose: Transform dataset for few-shot learning with balanced sampling
 """
 

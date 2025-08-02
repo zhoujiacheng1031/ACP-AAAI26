@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-27
-
-@author: zhoujiacheng
-@file: data_merge.py
 @purpose: merge multiple datasets
 """
 

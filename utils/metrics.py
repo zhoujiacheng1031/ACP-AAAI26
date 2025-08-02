@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-31
-
-@author: zhoujiacheng
-@file: metrics.py
 @purpose: Evaluation metrics for few-shot relation classification
 """
 

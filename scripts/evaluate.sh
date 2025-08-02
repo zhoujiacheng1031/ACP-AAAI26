@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# MACAP Evaluation Script
+# Evaluation Script
 
-echo "📊 Starting MACAP evaluation"
+echo "📊 Starting evaluation"
 
 # Set environment variables
 export CUDA_VISIBLE_DEVICES=0
@@ -16,9 +16,9 @@ fi
 
 # Run evaluation
 echo "🔍 Running evaluation..."
-python -m macap.utils.evaluate \
+python -m acp.utils.evaluate \
     --checkpoint results/experiments/best_model.pt \
-    --config macap/config/agent_config.json \
+    --config acp/config/agent_config.json \
     --output_dir results/evaluation
 
 echo "✅ Evaluation completed"

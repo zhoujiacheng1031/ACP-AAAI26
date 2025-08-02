@@ -20,8 +20,8 @@ fi
 
 # Run training
 echo "🎯 Starting training..."
-python -m macap.utils.train \
-    --config macap/config/agent_config.json \
+python -m acp.utils.train \
+    --config acp/config/agent_config.json \
     --output_dir results/experiments \
     --debug
 

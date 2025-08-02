@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2024-07-26
-
-@author: zhoujiacheng
-@file: dataset_analyzer.py
 @purpose: Analyze dataset statistics and quality
 """
 
