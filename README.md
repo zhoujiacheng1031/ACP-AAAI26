@@ -1,12 +1,12 @@
-# MACAP: Multi-Agent Concept-Aware Prototypical Network
+# ACP
 
-基于多智能体的概念感知原型网络，用于小样本关系分类任务。
+基于多智能体的对比原型网络，用于小样本关系分类任务。
 
 ## 🏗️ 项目结构
 
 ```
-MACAP/
-├── macap/                   # 核心代码包
+ACP/
+├── acp/                   # 核心代码包
 │   ├── agents/             # 多智能体系统
 │   │   ├── graph.py        # LangGraph智能体图
 │   │   ├── mrda.py         # 元关系发现智能体
